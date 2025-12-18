@@ -1,3 +1,10 @@
+🧠 NeuroBonk Meme Coin – Official Roadmap (2025–2026)
+
+🚀 The Future of NeuroBonk Begins Now!
+
+
+---
+
 📍 Phase 1: Foundation & Launch Preparation
 
 ✅ Brand Identity, Mascot & Vision Creation
@@ -125,5 +132,5 @@
 
 ---
 
-⚠️ Disclaimer
+⚠️ Disclaimer:
 NeuroBonk is a community-driven meme coin created for fun, engagement, and long-term ecosystem growth. This is not financial advice.
