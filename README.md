@@ -15,7 +15,7 @@
 ✅ Smart Contract Development
   • Solana
   • Pump.fun
-✅ NeuroBonk Logo, Banner & Visual Identity
+✅ NeuroBonk Logo,Banner & Visual Identity
 ✅ Official Social Media Setup
   — 🐦 Twitter / X
   — 💬 Telegram
