@@ -1,6 +1,4 @@
-🧠 NeuroBonk Meme Coin – Official Roadmap (2025–2026)
-
-🚀 The Future of NeuroBonk Begins Now!
+🧠 NeuroBonk Meme Coin – Official Roadmap (2025–2026
 
 
 ---
