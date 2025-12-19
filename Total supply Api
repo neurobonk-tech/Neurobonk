@@ -1,0 +1,9 @@
+{
+  "token": "NeuroBonk",
+  "symbol": "NBONK",
+  "blockchain": "Solana",
+  "mint_address": "CtuACfyubS8DmRGzhkbrWs59TzSHNVmyXAW7zSqpump",
+  "total_supply": "1000000000",
+  "circulating_supply": "1000000000",
+  "updated_at": "2025-12-19"
+}
